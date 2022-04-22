@@ -1,6 +1,6 @@
 package com.bl.employeewage;
 		/*
-		* @author Sathish
+		* @author Sathish S
 		*
 		*/
 		public class Emp_DailyWage {
